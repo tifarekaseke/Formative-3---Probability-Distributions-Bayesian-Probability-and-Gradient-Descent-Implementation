@@ -53,6 +53,4 @@ The code section uses SciPy for numerical derivative demonstration and implement
 1. How `m` and `b` change over iterations
 2. How the error changes over iterations
 
-## Presentation Note
 
-Each student should explain one part of the code and one part of the mathematics. During the presentation, run the notebook live and enter a random test height when asked by the coach.
